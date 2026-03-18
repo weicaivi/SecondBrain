@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "59ba8f2a85e15e8f",
+            "id": "7dbf63712bcf3d3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -248,25 +248,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59ba8f2a85e15e8f",
+  "active": "7dbf63712bcf3d3c",
   "lastOpenFiles": [
+    "CLAUDE.md",
     "README.md",
+    "_System/Agents/Claude",
+    "_System/Agents",
+    "01-Daily/2026/2026-03-17.md",
+    "04-Sources/README.md",
+    "03-Knowledge/README.md",
     "02-KANBAN/Feed-Board.md",
     "KANBAN.md",
     "05-Projects/README.md",
     "05-Projects",
-    "04-Sources/README.md",
     "04-Sources",
-    "01-Daily/2026/2026-03-17.md",
     "01-Daily/2026",
     "01-Daily",
     "_System/Scripts/requirements.txt",
     "_System/Scripts/journal_assistant.py",
     "_System/Scripts/crawl_feeds.py",
     "_System/Scripts/config.yaml",
-    "_System/Scripts",
-    "03-Knowledge/README.md",
-    "03-Knowledge",
     "_System/Templates/source-note.md",
     "_System/Templates/daily-note.md",
     "00-Inbox/README.md",

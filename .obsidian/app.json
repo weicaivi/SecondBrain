@@ -1,4 +1,6 @@
 {
   "promptDelete": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "newFileLocation": "root",
+  "attachmentFolderPath": "04-Sources"
 }
