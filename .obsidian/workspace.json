@@ -46,21 +46,49 @@
               },
               "pinned": true,
               "icon": "terminal",
-              "title": "Terminal: ✳ Claude Code"
+              "title": "Terminal: zsh"
             }
           },
           {
-            "id": "7dbf63712bcf3d3c",
+            "id": "554c5c1235aaf263",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "terminal:terminal",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "terminal:terminal": {
+                  "cwd": "/Users/caiweivi/Documents/SecondBrain",
+                  "focus": false,
+                  "profile": {
+                    "args": [
+                      "--login"
+                    ],
+                    "executable": "/bin/zsh",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "pinned": true,
+              "icon": "terminal",
+              "title": "Terminal: zsh"
             }
           }
         ],
@@ -211,8 +239,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -221,8 +249,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -248,10 +276,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7dbf63712bcf3d3c",
+  "active": "554c5c1235aaf263",
   "lastOpenFiles": [
-    "CLAUDE.md",
+    "00-Inbox/Did Van Halen's Concert Contract Require the Removal of Brown M&Ms?.md",
+    "00-Inbox/恶魔、反叛者与盲盒之神：Labubu在北美的文化符号转生.md",
+    "00-Inbox/Everything Must Be Paid for Twice.md",
+    "00-Inbox/One Nepo to Rule Them All.md",
+    "00-Inbox/Google CEO Sundar Pichai’s plan to make Gemini the only AI that matters.md",
     "README.md",
+    "CLAUDE.md",
     "_System/Agents/Claude",
     "_System/Agents",
     "01-Daily/2026/2026-03-17.md",

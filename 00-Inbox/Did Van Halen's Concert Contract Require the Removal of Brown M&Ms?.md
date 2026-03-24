@@ -1,0 +1,44 @@
+---
+title: "Did Van Halen's Concert Contract Require the Removal of Brown M&Ms?"
+source: "https://www.snopes.com/fact-check/brown-out/"
+author:
+  - "[[David Mikkelson]]"
+description: "Did Van Halen's contract call for the removal of all brown M&Ms from bowls of candy placed backstage?"
+tags:
+  - "clippings"
+---
+Claim:
+
+Van Halen's standard performance contract contained a provision calling for them to be provided backstage with a bowl of M&Ms from which all the brown candies had been removed.
+
+Rating: [![Mixture](https://mediaproxy.snopes.com/width/200/https://media.snopes.com/2018/03/rating-mixture.png) Mixture](https://www.snopes.com/fact-check/rating/mixture)
+
+[About this rating](https://www.snopes.com/fact-check/rating/mixture)Rock concerts have come a long ways since the days when the Beatles performed in boxing rings and hockey rinks, and made no greater demand of promoters than they be provided with clean towels and a few bottles of soft drinks. As the audiences grew larger, promoters stood to make more and more money from staging concerts, which meant that not only could rock stars command higher prices for their performances, but they were able to demand other perks as well, such as luxurious accommodations, lavish backstage buffets, and chauffeured transportation. It was inevitable that some high-demand acts, all their financial and pampering whims satisfied, would exercise their power and start making frivolous demands of promoters, simply because they could.
+
+By far the most notorious of these whimsical requests is the legend that Van Halen's standard concert contract called for them to be provided with a bowl of M&Ms backstage, but with provision that all the brown candies must be removed:
+
+> Van Halen tends to make the news portion of radio more often than it gets airplay. There was the M&M riot in New Mexico where the band did thousands of dollars of damage to a hall when they were served brown M&Ms — their contract said the brown ones had to be removed.
+
+Indeed, a copy of a contract [rider](https://www.thesmokinggun.com/sites/default/files/imagecache/750x970/documents/1982vanhalen9_0.gif) from Van Halen's 1982 world tour, under the "Munchies" section, does document that the band specified they be provided with "M&M's (WARNING: ABSOLUTELY NO BROWN ONES)":
+
+![](https://www.snopes.com/uploads/2014/12/vanhalenrider.jpg)
+
+The presence of even a single brown M&M in that bowl, rumor had it, was sufficient legal cause for Van Halen to peremptorily cancel a scheduled appearance without advance notice (and usually an excuse for them to go on a destructive rampage as well).
+
+The legendary "no brown M&Ms" contract clause was indeed real, but the purported motivation for it was not. The M&Ms provision was included in Van Halen's contracts not as an act of caprice, but because it served a practical purpose: to provide a simple way of determining whether the technical specifications of the contract had been thoroughly read and complied with. As Van Halen lead singer David Lee Roth explained in his autobiography:
+
+> Van Halen was the first band to take huge productions into tertiary, third-level markets. We'd pull up with nine eighteen-wheeler trucks, full of gear, where the standard was three trucks, max. And there were many, many technical errors — whether it was the girders couldn't support the weight, or the flooring would sink in, or the doors weren't big enough to move the gear through.
+> 
+> The contract rider read like a version of the Chinese Yellow Pages because there was so much equipment, and so many human beings to make it function. So just as a little test, in the technical aspect of the rider, it would say "Article 148: There will be fifteen amperage voltage sockets at twenty-foot spaces, evenly, providing nineteen amperes..." This kind of thing. And article number 126, in the middle of nowhere, was: "There will be no brown M&M's in the backstage area, upon pain of forfeiture of the show, with full compensation."
+> 
+> So, when I would walk backstage, if I saw a brown M&M in that bowl... well, line-check the entire production. Guaranteed you're going to arrive at a technical error. They didn't read the contract. Guaranteed you'd run into a problem. Sometimes it would threaten to just destroy the whole show. Something like, literally, life-threatening.
+
+Nonetheless, the media ran exaggerated and inaccurate accounts of Van Halen's using violations of the "no brown M&Ms" clause as justification for engaging in childish, destructive behavior (as described in the newspaper article quoted above). David Lee Roth's version of such events was decidedly different:
+
+> The folks in Pueblo, Colorado, at the university, took the contract rather kinda casual. They had one of these new rubberized bouncy basketball floorings in their arena. They hadn't read the contract, and weren't sure, really, about the *weight* of this production; this thing weighed like the business end of a 747.
+> 
+> I came backstage. I found some brown M&M's, I went into full Shakespearean " *What* is this before me?"... you know, with the skull in one hand... and promptly trashed the dressing room. Dumped the buffet, kicked a hole in the door, twelve thousand dollars' worth of fun.
+> 
+> The *staging* sank through their floor. They didn't bother to look at the weight requirements or anything, and this sank through their new flooring and did eighty thousand dollars' worth of damage to the arena floor. The whole thing had to be replaced. It came out in the press that I discovered brown M&M's and did eighty-five thousand dollars' worth of damage to the backstage area.
+> 
+> Well, who am I to get in the way of a good rumor?
